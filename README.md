@@ -15,7 +15,7 @@ Table :: #import "mingcute_regular_table";
 
 Module names are `mingcute_<style>_<name>`, where style is `filled`, `regular`
 or `extra` and name is MingCute's file name (`table`, `save_2`, `delete_2`).
-Find a name with `ls svg/regular/*`.
+Find a name with `ls svg/regular/*`; the modules are flat under `src/`, which is where Ziran looks.
 
 `svg/` holds the source files. `scripts/generate.py` turns them into `src/` and
 `ziran.toml`; run it with the MingCute revision after updating `svg/`. Icons
