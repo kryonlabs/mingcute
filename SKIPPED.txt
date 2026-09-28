@@ -1,0 +1,10 @@
+filled/system/loading.svg: g
+filled/system/loading_2.svg: g
+filled/system/loading_3.svg: dash, gradient or opacity
+filled/system/loading_4.svg: g
+regular/media/live_photo.svg: dash, gradient or opacity
+regular/system/loading.svg: g
+regular/system/loading_2.svg: g
+regular/system/loading_3.svg: dash, gradient or opacity
+regular/system/loading_4.svg: g
+regular/weather/moonlight.svg: dash, gradient or opacity
