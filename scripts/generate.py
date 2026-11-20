@@ -128,7 +128,7 @@ def main():
     (ROOT / "SKIPPED.txt").write_text("\n".join(skipped) + "\n")
     (ROOT / "ziran.toml").write_text(
         '[package]\nname = "mingcute"\nmodule_roots = ["src"]\n\n'
-        '[toolchain]\ngit = "https://github.com/ziranlang/ziran.git"\nref = "master"\n\n'
+        '[toolchain]\ngit = "https://git.waozi.xyz/ziranlang/ziran.git"\nref = "79267de63744d49e417fa17b760caa03194c851b"\n\n'
         "[exports]\n" + "\n".join(exports) + "\n")
     print(f"{len(exports)} icons, {len(skipped)} skipped (MingCute {revision})")
 

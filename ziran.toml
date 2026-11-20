@@ -3,8 +3,8 @@ name = "mingcute"
 module_roots = ["src"]
 
 [toolchain]
-git = "https://github.com/ziranlang/ziran.git"
-ref = "master"
+git = "https://git.waozi.xyz/ziranlang/ziran.git"
+ref = "79267de63744d49e417fa17b760caa03194c851b"
 
 [exports]
 mingcute_filled_align_arrow_down = "src/mingcute_filled_align_arrow_down.zi"
