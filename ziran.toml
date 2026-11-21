@@ -4,7 +4,7 @@ module_roots = ["src"]
 
 [toolchain]
 git = "https://git.waozi.xyz/ziranlang/ziran.git"
-ref = "79267de63744d49e417fa17b760caa03194c851b"
+ref = "5db3d3c39425d5dfe4bfe4a84e6f6e2e5a810ad0"
 
 [exports]
 mingcute_filled_align_arrow_down = "src/mingcute_filled_align_arrow_down.zi"

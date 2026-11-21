@@ -1,0 +1,15 @@
+{
+  "format": 1,
+  "packages": [
+
+  ],
+  "root": {
+    "dependencies": {},
+    "name": "mingcute"
+  },
+  "toolchain": {
+    "commit": "5db3d3c39425d5dfe4bfe4a84e6f6e2e5a810ad0",
+    "ref": "5db3d3c39425d5dfe4bfe4a84e6f6e2e5a810ad0",
+    "url": "https://git.waozi.xyz/ziranlang/ziran.git"
+  }
+}
